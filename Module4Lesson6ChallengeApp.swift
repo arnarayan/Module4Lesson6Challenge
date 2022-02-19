@@ -11,7 +11,7 @@ import SwiftUI
 struct Module4Lesson6ChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PeopleMain().environmentObject(PeopleModel()).environmentObject(PeopleSettingsModel())
         }
     }
 }
