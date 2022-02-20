@@ -9,9 +9,12 @@
             "image": "microsoft",
             "id":5
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 10,
         "areasOfExpertise": [
-            "Software Engineer","Team Lead", "Custom Designer", "UI Designer"
+            "Software Engineer",
+            "Team Lead",
+            "Custom Designer",
+            "UI Designer"
         ],
         "title": "Engineer",
         "image": "1"
@@ -29,9 +32,13 @@
             "address": "3542 Yonge Street",
             "image": "33"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 4,
         "areasOfExpertise": [
-            "Sining", "Cook", "Axe Throwing", "Foosbal", "Ice Skating"
+            "Sining",
+            "Cook",
+            "Axe Throwing",
+            "Foosbal",
+            "Ice Skating"
         ],
         "title": "Personal Care Aide",
         "image": "2"
@@ -49,9 +56,13 @@
             "address": "1036 Haaglund Rd",
             "image": "18"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 7,
         "areasOfExpertise": [
-            "Rock Climbing", "Archery", "Axe Throwing", "Foosbal", "Ice Skating"
+            "Rock Climbing",
+            "Archery",
+            "Axe Throwing",
+            "Foosbal",
+            "Ice Skating"
         ],
         "title": "School Counselor",
         "image": "3"
@@ -69,9 +80,13 @@
             "address": "143 Ganges Road",
             "image": "12"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 2,
         "areasOfExpertise": [
-            "Play the tabla", "Cook", "Watching tv", "Foosbal", "Ice Skating"
+            "Play the tabla",
+            "Cook",
+            "Watching tv",
+            "Foosbal",
+            "Ice Skating"
         ],
         "title": "Bookkeeping clerk",
         "image": "4"
@@ -89,9 +104,13 @@
             "address": " 3059 Richmond Street",
             "image": "11"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 4,
         "areasOfExpertise": [
-            "Swim", "Flipping the bird", "Snorkel", "Foosbal", "Ice Skating"
+            "Swim",
+            "Flipping the bird",
+            "Snorkel",
+            "Foosbal",
+            "Ice Skating"
         ],
         "title": "Mechanical Engineer",
         "image": "5"
@@ -109,9 +128,13 @@
             "address": "2476 90th Avenue",
             "image": "99"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 10,
         "areasOfExpertise": [
-            "Dancing", "Fishing", "Surf", "Boogie Boarding", "Drive a car"
+            "Dancing",
+            "Fishing",
+            "Surf",
+            "Boogie Boarding",
+            "Drive a car"
         ],
         "title": "High School Teacher",
         "image": "6"
@@ -130,9 +153,13 @@
             "image": "87"
             
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 11,
         "areasOfExpertise": [
-            "ride a bike", "juggle", "wink", "Snorkel", "Scuba Diving"
+            "ride a bike",
+            "juggle",
+            "wink",
+            "Snorkel",
+            "Scuba Diving"
         ],
         "title": "Economist",
         "image": "7"
@@ -150,9 +177,13 @@
             "address": "830 102nd Avenue",
             "image": "363"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 16,
         "areasOfExpertise": [
-            "water skiiing", "snap your fingers", "whistle", "Tennis", "Ride a horse"
+            "water skiiing",
+            "snap your fingers",
+            "whistle",
+            "Tennis",
+            "Ride a horse"
         ],
         "title": "Telemarketer",
         "image": "8"
@@ -170,9 +201,13 @@
             "address": "2131 Richmond Road",
             "image": "7373"
         },
-        "yearsOfExpertise": 1,
+        "yearsOfExpertise": 3,
         "areasOfExpertise": [
-            "Sining", "Cook", "Axe Throwing", "Foosbal", "Ice Skating"
+            "Sining",
+            "Cook",
+            "Axe Throwing",
+            "Foosbal",
+            "Ice Skating"
         ],
         "title": "Computer Systems Analyst",
         "image": "9"
@@ -192,7 +227,11 @@
         },
         "yearsOfExpertise": 1,
         "areasOfExpertise": [
-            "Sky Dive", "Segway", "Bake", "Calculus", "Paint"
+            "Sky Dive",
+            "Segway",
+            "Bake",
+            "Calculus",
+            "Paint"
         ],
         "title": "Paralegal",
         "image": "10"

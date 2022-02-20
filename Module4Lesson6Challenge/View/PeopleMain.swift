@@ -12,13 +12,13 @@ struct PeopleMain: View {
         TabView{
             PeopeList().tabItem{
                 VStack {
-                    Image(systemName: "tortoise")
+                    Image(systemName: "person.2.fill")
                     Text("People")
                 }
             }
             PeopleSettings().tabItem{
                 VStack{
-                    Image(systemName: "heart")
+                    Image(systemName: "gearshape.fill")
                     Text("Settings")
                 }
             }

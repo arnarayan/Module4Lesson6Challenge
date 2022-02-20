@@ -9,12 +9,12 @@ import Foundation
 
 
 class PeopleSettingsModel: ObservableObject {
-    var showYearsOfExperience:Bool
-    var showAddress:Bool
-    var showCompany:Bool
+    @Published var showYearsOfExperience:Bool
+    @Published var showAddress:Bool
+    @Published var showCompany:Bool
     
     init() {
-        self.showAddress = false
+        self.showAddress = true
         self.showCompany = true
         self.showYearsOfExperience = true
     }
