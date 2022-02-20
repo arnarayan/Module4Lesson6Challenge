@@ -12,18 +12,23 @@ struct PeopleSettings: View {
     @EnvironmentObject var settingsModel: PeopleSettingsModel
     
     var body: some View {
-        VStack {
-            Toggle(isOn: $settingsModel.showYearsOfExperience, label: {
-                Text("Show Years of Expertise")
-            })
-            Toggle(isOn: $settingsModel.showAddress, label: {
-                Text("Show Address")
-            })
-            Toggle(isOn: $settingsModel.showCompany, label: {
-                Text("Show Company")
-            })
+        NavigationView {
+            VStack(alignment: .center) {
+                Toggle(isOn: $settingsModel.showYearsOfExperience, label: {
+                    Text("Show Years of Expertise")
+                })
+                Toggle(isOn: $settingsModel.showAddress, label: {
+                    Text("Show Address")
+                })
+                Toggle(isOn: $settingsModel.showCompany, label: {
+                    Text("Show Company")
+                })
+                Spacer()
+            }
+            .padding(.horizontal)
+            .navigationTitle("Display Preferences")
         }
-        .padding(.horizontal)
+
 
     }
 }
